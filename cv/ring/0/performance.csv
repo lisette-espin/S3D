@@ -1,0 +1,9 @@
+accuracy,0.75
+auc_macro,0.748879744611059
+auc_micro,0.748879744611059
+f1_binary,0.7640306122448979
+f1_macro,0.7491130072718741
+f1_micro,0.75
+fold_index,0.0
+lambda_,0.003
+n_f,3.0
